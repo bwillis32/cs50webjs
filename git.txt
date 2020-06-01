@@ -1,0 +1,9 @@
+git clone - copy a repo
+git push - push to a repo 
+git pull - pull from a repo.
+git merge - merge changes between local and remote copies. @26 minutes in video
+git log - list of commits and changes.
+git reset --hard <commit>
+git reset --hard <origin master>
+git commit -am - add and commit files.
+

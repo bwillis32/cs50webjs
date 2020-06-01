@@ -1,4 +1,9 @@
 # Logs
+
+templates/*
+static/*
+theme/*
+
 logs
 *.log
 npm-debug.log*
